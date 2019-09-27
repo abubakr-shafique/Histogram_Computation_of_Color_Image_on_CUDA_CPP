@@ -1,3 +1,4 @@
+//This program is written by Abubakr Shafique (abubakr.shafique@gmail.com) 
 #ifndef _CUDA_Histogram_
 #define _CUDA_Histogram_
 
